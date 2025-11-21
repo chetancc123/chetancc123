@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetancc123" alt="chetancc123" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently Working as a FullStack Developer.
 
 - 💬 Ask me about **Web Developement**
 
